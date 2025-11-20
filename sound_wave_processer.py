@@ -43,4 +43,4 @@ def plot_summed_harmonics(audio_path, num_harmonics):
     plt.show()
 
 # Call function
-plot_summed_harmonics("05:04:2025.mp3", num_harmonics=3)
+plot_summed_harmonics("audio_file_goes_here", num_harmonics=3)
