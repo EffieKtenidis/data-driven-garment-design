@@ -26,4 +26,10 @@ Using Python-based audio analysis, I transformed sound waveforms into 2D geometr
 ## Repository Files
 
 - **`sound_wave_processor.py`** — Python script for audio processing and harmonic reconstruction  
-- **`final_skirt_presentation.pdf`** — Poster summarizing the project’s workflow, design process, and final garment  
+- **`final_skirt_presentation.pdf`** — Poster summarizing the project’s workflow, design process, and final garment
+
+---
+
+## Running the Code
+
+This code will not run unless there is an audio file uploaded to it, currently there is an unkown variable in place of where this file should be.
